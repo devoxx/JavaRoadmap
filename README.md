@@ -4,6 +4,6 @@ The roadmap has been made using the Mac Keynote application. To make any changes
 ## History
 
 * v1 by https://twitter.com/javinpaul
-* v2 - v6 by https://twitter.com/stephan007
+* v2 - v7 by https://twitter.com/stephan007
 
 ![2022 Java Developers Roadmap](https://github.com/devoxx/JavaRoadmap2022/blob/main/JavaRoadmapV7.jpg)
