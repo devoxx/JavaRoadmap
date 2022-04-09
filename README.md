@@ -10,4 +10,4 @@ By no means do you need to understand (or use) everything on this roadmap to bec
 * v1 by [@javinpaul](https://twitter.com/javinpaul) - [The 2022 Java Developer RoadMap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) article
 * v2 - v9 by [@stephan007](https://twitter.com/stephan007)
 
-![2022 Java Developers Roadmap](https://github.com/devoxx/JavaRoadmap2022/blob/main/JavaRoadmap-9April2022.jpg)
+![2022 Java Developers Roadmap](https://github.com/devoxx/JavaRoadmap2022/blob/main/JavaRoadmap.jpg)
